@@ -3,3 +3,4 @@
 3. Wymagane jest wprowadzenie znaku "@".
 4. Wybierane jest unikalne hasło podczas nowej rejestracji.
 5. Przekierowanie do strony Logowania.
+
